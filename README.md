@@ -7,7 +7,9 @@ ssh-keygen -t rsa -C "YOUR EMAIL"
 git clone [YOUR SSH]
 
 - 拉取完之后：
+
 cd [拉下来的工程文件夹]
+
 git init
 
 - 第一次上传时，执行下面这句：
